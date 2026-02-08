@@ -12,32 +12,32 @@ postnominals:
  
   
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🦖"
+role: PhD Candidate in Theoretical Physics
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
-
+  Alex Cassem is a PhD candidate at Tufts University in the Institute of Cosmology. His research interests include inflation,
+  cosmological collider and boostrap, gravitational effective field theories (EFTs) and LSS, and constraining EFTs with
+  fundamental principles in consulation with observational data. Alex is also passionate about teaching and education, 
+  especially for those who are underrepresented in physics, and did not have the opprtunity to learn physics in their early life.
+  
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Tufts University, Institute of Cosmology
+    url: https://inspirehep.net/authors/2820688?ui-citation-summary=true
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:alexander.cassem@tufts.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+  #- icon: brands/x
+  #  url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/acassem
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: www.linkedin.com/in/alexander-cassem-416762217
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/citations?user=example
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-5070-6798
 
 interests:
   - Large Language Models
