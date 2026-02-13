@@ -40,30 +40,30 @@ links:
     url: https://orcid.org/0000-0001-5070-6798
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Cosmological Collider
+  - String Theory in Cosmology
+  - Analytic S-Matrix
+  - Beyond Standard Model
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD Candidate in Physics
+    institution: Tufts University
+    start: 2022-09-01
+    end: 2027-05-30
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Thesis on cosmological collider physics and constraining effective field theories via fundamental physical principles.
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: MS Physics
+    institution: Tufts University
+    start: 2022-09-01
+    end: 2025-05-30
+  - degree: BS Physics and Mathematica
+    institution: Winona State University
+    start: 2017-09-01
+    end: 2022-05-31
 
 experience:
   - role: Senior AI Research Scientist
