@@ -54,7 +54,7 @@ sections:
     content:
       title: Featured Publications
       filters:
-        folders:
+        folders: 
           - publications
         featured_only: true
     design:
